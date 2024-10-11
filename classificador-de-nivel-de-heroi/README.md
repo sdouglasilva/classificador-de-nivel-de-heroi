@@ -17,24 +17,7 @@ Estrutura de Decisão: Com o uso de condicionais, o programa avalia os atributos
 
 Laços de Repetição: Para classificar múltiplos heróis, utilizei laços de repetição. O programa percorre uma lista de heróis, avaliando cada um deles e atribuindo uma classificação com base nas condições definidas.
 
-Exemplo de Lógica Implementada:
-
-python
-
-herois = [
-    {'nome': 'Superman', 'forca': 100, 'agilidade': 85, 'inteligencia': 90},
-    {'nome': 'Flash', 'forca': 70, 'agilidade': 95, 'inteligencia': 80},
-]
-
-for heroi in herois:
-    if heroi['forca'] > 80:
-        classificacao = 'Fortão'
-    elif heroi['agilidade'] > 80:
-        classificacao = 'Ágil'
-    else:
-        classificacao = 'Inteligente'
     
-    print(f"{heroi['nome']} é classificado como: {classificacao}")
 Resultados e Aprendizados:
 
 Este projeto me ensinou a importância de estruturas básicas de programação e como elas podem ser aplicadas para resolver problemas reais. A simplicidade das variáveis, laços e condicionais foi fundamental para criar uma solução eficiente e funcional.
@@ -46,3 +29,6 @@ Estou animado para expandir este projeto, adicionando mais heróis, atributos e 
 🌈 Agradecimentos:
 
 Agradeço à GFT Start pela oportunidade e a todos que apoiaram este projeto. Vamos juntos transformar ideias em superpoderes!
+
+
+
