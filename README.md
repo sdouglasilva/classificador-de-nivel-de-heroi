@@ -13,9 +13,9 @@ Como Funciona?
 
 Coleta de Dados: Os dados sobre os heróis são definidos por meio de variáveis, onde cada herói possui atributos como nome, força, agilidade e inteligência.
 
-Estrutura de Decisão: Com o uso de condicionais, o programa avalia os atributos dos heróis. Por exemplo, se a força de um herói for maior que um certo valor, ele pode ser classificado como "Fortão".
+Estrutura de Decisão: Com o uso de condicionais, o programa avalia os atributos dos heróis. Por exemplo, se a força de um experiência do herói for menor que 1000, ele pode ser classificado "Bronze".
 
-Laços de Repetição: Para classificar múltiplos heróis, utilizei laços de repetição. O programa percorre uma lista de heróis, avaliando cada um deles e atribuindo uma classificação com base nas condições definidas.
+Laços de Repetição: Para classificar múltiplos heróis, utilizei laços de repetição. O programa percorre uma lista de heróis, avaliando cada um deles e atribuindo uma classificação de experiência com base nas condições definidas.
 
     
 Resultados e Aprendizados:
